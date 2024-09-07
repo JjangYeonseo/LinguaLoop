@@ -1,6 +1,5 @@
 # LinguaLoop
 
-# **LinguaLoop**
 
 LinguaLoop is a real-time speech translation and response recommendation system. 
 It translates spoken input from one language to the user's native language, offers suggested responses, and then translates the chosen response back to the input language. This project leverages Google’s Speech Recognition and Translation APIs, enabling smooth multilingual conversations.
